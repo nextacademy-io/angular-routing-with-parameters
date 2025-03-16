@@ -1,5 +1,9 @@
 # Angular Workshop: Routing with parameters
 
+
+https://github.com/user-attachments/assets/d9c85b72-cf19-4f39-91d8-92b95a1bfd90
+
+
 In this task, you'll create a `ClashDetailsComponent`. You'll navigate from the `ClashListComponent` to the `ClashDetailsComponent` by clicking on a `routerLink` in the (already existing) `BookCardComponent` (child of the `ClashListComponent`). You'll pass the `clash-id` as a parameter.
 
 ---
